@@ -29,8 +29,7 @@
 // 	//2 直接控制器自定义响应
 // Route::get("/demo3","DemoController@response");
 
-// //配置视图的路由
-Route::get("/demo4","DemoController@index");
+// //配置视图的路Route::get("/demo4","DemoController@asd");
 
 
 
@@ -175,7 +174,7 @@ Route::get("/admin/logout","Admin\LoginController@logout");//提交退出请求
 
 
 //显示普通用户管理信息表
-Route::any('/user', "Admin\UserController@index2");
+Route::any('/user', "Admin\UserController@index");
 // 搜索用户
 //普通添加用户信息表
 Route::get('/add', function () {
