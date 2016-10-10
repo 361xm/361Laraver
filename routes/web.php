@@ -30,7 +30,7 @@
 // Route::get("/demo3","DemoController@response");
 
 // //配置视图的路由
-// Route::get("/demo4","DemoController@view");
+Route::get("/demo4","DemoController@view");
 
 
 
