@@ -1,0 +1,187 @@
+p{padding:0px; margin:0px;}
+select{font-family:"Microsoft yahei!";}
+.ordercon{ width:1000px; margin:auto; }
+.nullcart{ background:url(../images/nullcart.jpg) no-repeat center 120px; width:100%; height:200px; }
+.order_top{ background:url(../images/index/index_52.jpg) repeat-x bottom; height:44px; line-height:44px; }
+.order_top .topleft{ width:235px; background:url(../images/index/order1_03.jpg) no-repeat right top; }
+.order_top .topleft a.shouc{ background:url(../images/index/shoucang.png) no-repeat 16px; text-align:left; padding-left:32px; display:inline-block; }
+.order_top .topright{ width:235px; text-align:right; background:url(../images/index/order1_03.jpg) no-repeat left top; }
+.order_top .topright span{ color:#c6c6c6; }
+.order_top .topuser{ width:530px; text-align:center; }
+.order_top .topuser span{ color:#bc181f; }
+.order_top .topuser .manager{ color:#999999; }
+.order_logo{ background:url(../images/index/order1_12.jpg) no-repeat left top; width:95px; height:55px; margin-top:34px; }
+.order_l_right{ margin-top:49px; padding-top:51px; color:#b1adaf; width:691px; text-align:right; }
+.order_l_r1{ background:url(../images/index/order1_zt1.jpg) no-repeat left top; margin-bottom:50px;}
+.order_l_r2{ background:url(../images/index/order1_zt2.jpg) no-repeat left top; }
+.order_l_r3{ background:url(../images/index/order1_zt3.jpg) no-repeat left top; }
+.order_listdh{ background:url(../images/index/order1_20.jpg) no-repeat top center; }
+.order_listdh th{height:32px; line-height:32px;}
+.order_listdh td{text-align:center;}
+.order_listdh tr#olist td#olist-second,.order_listdh tr#olist td#olist-first{border-right:1px solid #e6e6e6; border-bottom:1px solid #e6e6e6;}
+.order_listdh tr#olist td#olist-zero{border-left:1px solid #e6e6e6;border-bottom:1px solid #e6e6e6; vertical-align:top;}
+.order_listdh tr#olist td#olist-second{vertical-align:top; padding-top:10px;}
+.order_listdh tr#olist td#olist-second a{display:block; padding:1px 0px;}
+/*2015/5/28 @Ljp add Begin*/
+table.order_listdh th#allCheck span,div.delall span,table.order_listdh td#olist-zero span{background:url(../images/selected.png) no-repeat center 2px; cursor:pointer; display:inline-block; width:16px; height:18px; margin-top:10px;}
+div.ordercon div.delall span{ float:left;}
+table.order_listdh th#allCheck span.on,div.delall span.on,table.order_listdh td#olist-zero span.on{ background:url(../images/selected.png) no-repeat center -18px; }
+/*2015/5/28 @Ljp end End*/
+.order_list{ border-left:1px solid #e5e5e5; width:100%;}
+.order_list tr td{padding:10px 0px;}
+.order_list tr#son-list{ background:url(../images/index/dian.jpg) repeat-x top; }
+.order_num{ border:1px solid #dcd9da; display:inline-block; }
+.order_list .title{ color:#666666; }
+.zpin{ color:#bc181f; }
+.order_num a{ width:23px; height:22px; display:inline-block; float:left; cursor:pointer; }
+.order_num .up{ background:url(../images/index/order1_26.jpg) no-repeat; }
+.order_num .down{ background:url(../images/index/order1_24.jpg) no-repeat; }
+.order_num input{ width:24px; color:#999999; text-align:center; float:left; height:21px; }
+.order_list .scdel a{ color:#0162bd; line-height:20px; }
+.border-right{border-right:1px solid #e5e5e5;}
+.order_buyinfo{ background-color:#f6f6f6; padding:16px; border-bottom:1px solid #e6e6e6; border-top:none; height:180px; margin-bottom:48px; }
+.order_buyinfo .obi_left{ width:649px; }
+.obi_left .delall{ width:153px; color:#666666; padding-top:6px; }
+.obi_left .delall a{ color:#0162bd; margin-left:3px;}
+.obi_left .lipin{ background:url(../images/index/order1_34.jpg) no-repeat left center; padding-left:10px; color: #F99302; width:450px; position:relative; }
+.obi_left .lplist{ position:absolute; border:1px solid #CCC; margin-left:113px; padding:10px; background:#FFF; margin-top:6px; width:180px; display:none; }
+.obi_left .lplist ul li{ height:25px; line-height:25px; color:#999999; cursor:pointer; border-bottom:1px dotted #CCC; }
+.obi_left .lipin .text{ border:1px solid #dedfde; margin-left:5px; width:136px; height:21px; color:#999999; }
+.obi_left .lipin .button{ background:url(../images/index/order1_31.jpg) no-repeat left center; width:71px; height:28px; font-size:0px;}
+.obi_left .yunfei{ background:url(../images/index/order1_44.jpg) no-repeat left center; color:#666666; padding-left:36px; margin-top:135px; }
+.obi_right{ width:303px; text-align:center; color:#333333; line-height:22px; }
+.obi_right .bottombo{ border-bottom:1px solid #dcdcdc; padding-bottom:10px; margin-bottom:10px; }
+.obi_right .price{ color:#bc181f; font-size:18px; font-family:Verdana, Geneva, sans-serif; font-weight:bold; }
+.obi_right .button{ margin-top:30px; }
+.obi_right .button .gouwu{ background:url(../images/index/order1_39.png) no-repeat; display:inline-block; width:151px; height:41px; }
+.obi_right .button .jiesuan{ background:url(../images/index/order1_41.png) no-repeat; font-size:0px; width:151px; height:41px; cursor:pointer; }
+.order_history_dh{ height:29px;	line-height:29px; border-top:2px solid #e6e6e6; background-color:#f6f6f6; }
+.order_history_dh span{ height:30px; display:inline-block; text-align:center; margin-top:-2px; width:185px; background:url(../images/index/order1_50.jpg); color:#666666; font-size:14px; }
+.order_history{ width:998px; overflow:hidden; border-left:1px solid #e6e6e6; border-right:1px solid #e6e6e6; }
+.order_history ul{ width:1002px; }
+.order_history ul li{ border-top:1px dotted #c9c9c9; border-right:1px dotted #c9c9c9; width:487px; height:64px; padding:6px; float:left; }
+.order_history ul li.cartloadding{width:998px; background:url(../images/cartloadding.gif) no-repeat center center; padding:6px 0px; border-bottom:none;}
+.order_history ul li.nocartdelete{width:998px; padding:6px 0px; border-bottom:none; text-align: left; line-height: 64px; font-size: 14px; padding-left: 47px;}
+.order_history ul li .pic{ margin-right:8px; display:inline-block; float:left; }
+.order_history ul li .title{ width:335px; float:left; color:#a9a9a9; padding-top:13px; line-height:20px; }
+.order_history ul li .title a{ color:#666; }
+.order_history ul li .cxbuy{ width:70px; float:left; padding-top:13px; line-height:20px; }
+.order_history ul li .cxbuy .sc{ color:#a9a9a9; }
+.order_history ul li .cxbuy .cx{ color:#bc181f; }
+.order_historybot { background: url("../images/index/jifen_17.jpg") repeat-x center bottom; height: 4px; margin-top:-1px; margin-bottom:40px; }
+.order_tsdh{ border-bottom:5px solid #f9f9f9; height:31px; }
+.order_tsdh ul{ border-bottom:1px solid #e2e2e2; height:30px; }
+.order_tsdh ul li{ cursor:pointer; float:left; display:inline-block; height:31px; line-height:31px; margin-right:2px; background: url("../images/index/order1_61.jpg") repeat-x center bottom; }
+.order_tsdh ul li span{ display:inline-block; width:4px; height:31px; float:left; }
+.order_tsdh ul li font{ display:inline-block; height:31px; float:left; }
+.order_tsdh ul li .left{ margin-right:24px; background: url("../images/index/order1_59.jpg") repeat-x center bottom; }
+.order_tsdh ul li .right{ margin-left:24px; background: url("../images/index/order1_62.jpg") repeat-x center bottom; }
+.order_tsdh ul li.check{ background: url("../images/index/order1_56.jpg") repeat-x center bottom; color:#0162bd; }
+.order_tsdh ul li.check .left{ background: url("../images/index/order1_53.jpg") repeat-x center bottom; }
+.order_tsdh ul li.check .right{ background: url("../images/index/order1_57.jpg") repeat-x center bottom; }
+.ots_pic_z{ position:relative; padding-bottom:230px; }
+.ots_pic_z a{ width:15px; height:15px; display:inline-block;margin-top:85px; }
+.ots_pic_z .pre-pic{ background:url(../images/index/order1_left.jpg) no-repeat; position:absolute; left:0px; }
+.ots_pic_z .next-pic{ background:url(../images/index/order1_right.jpg) no-repeat; position:absolute; right:0px; }
+.ots_pic_z .spiclist{ width:960px; margin-left:20px; float:left; OVERFLOW: hidden; position:relative; height:310px; }
+.ots_pic_z .spiclist ul{position:relative; width:3000px;}
+.ots_pic_z .spiclist ul li{ float:left; height:310px; width:240px; text-align:center; margin:0px; border:0px; cursor:pointer; color:#333333; font-family:"Microsoft Yahei",sans-serif; }
+.ots_pic_z .spiclist ul li .font{ text-align:left; padding-left:18px; }
+.ots_pic_z .spiclist ul li .bo{ width:197px; border-bottom:1px solid #cccccc; padding-bottom:2px; margin-bottom:4px; }
+.ots_pic_z .spiclist ul li .price{ display:block; color:#a7a7a7; font-size:14px; }
+.ots_pic_z .spiclist ul li .addcart{ margin-top:33px; background:url(../images/index/order1_76.jpg) no-repeat; width:114px; height:27px; display:inline-block; margin-left:50px; }
+.ots_pic_z .num{ display:none; }
+/*add-order-info*/
+.backcart{ height:50px; text-align:right; }
+.backcart a{ display:inline-block; background-color:#454545; width:113px; height:26px; color:#fff; text-align:center; line-height:26px; margin-top:13px; }
+.order2_listdh{ background:url(../images/index/order1_20.jpg) no-repeat; height:32px; color:#838383; font-weight:bold; padding-left:27px; line-height:32px; }
+.order2_tb1{ width:972px; padding-bottom:13px; }
+.order2_tb1 .title{ font-size:14px; font-weight:bold; height:32px; line-height:32px; padding-top:12px; color:#333333; padding-left:12px; }
+.order2_tb1 tr{ background:none; background-color:#f5f5f5; border-bottom:1px solid #fff; }
+table.tb2 td{ border-bottom:1px solid #fff; padding:0px;}
+table#paymethod td{padding-left:5px; padding-right:5px;}
+table#sontable{padding:5px 0px;}
+table#sontable td{border-bottom:none; padding:10px 0px;}
+table.tb2 td.padding10{padding:10px 0px;}
+.order2_tb1 a{ color:#0162bd; }
+.order2_tb1 .tb2{ text-align:center; }
+.order2_tb1 .ta_left{ line-height:20px; }
+.order2_tb1 .ta_left span{ display:block; color:#666666; }
+.order2_tb2{ margin-top:15px; }
+.order2_tb2 .obi_right{ width:230px; }
+.tjcart{ color:#a9a9a9; }
+.tjcart input{ background:url(../images/index/tjcart.png) no-repeat; width:154px; height:44px; font-size:0px; }
+.order_fapiao{ line-height:22px; }
+.order_fapiao span{	color:#a9a9a9; }
+.order_fapiao .input{ border:1px solid #dedfde; width:88px; height:20px; color:#777; cursor:pointer; }
+.newadd{ background:url(../images/index/dian.jpg) repeat-x top; height:32px; line-height:32px; width:98%; margin:10px auto 0px;}
+.order_formlist dl{ height:26px; line-height:26px; padding:8px 0px; }
+.order_formlist dl dt{ width:64px; float:left; text-align:right; padding-right:12px; height:20px; }
+.order_formlist dl dd{	float:left; display:inline-block; height:20px; }
+.order_formlist dl dd span input{ color:#777777; border:0px; border-bottom:1px solid #dedfde; border-left:1px solid #dedfde; border-top:1px solid #efefef; border-right:1px solid #f8f8f8; height:22px; }
+.order_formlist dl dd span textarea{ color:#777777; border:0px; border-bottom:1px solid #dedfde; border-left:1px solid #dedfde; border-top:1px solid #efefef; border-right:1px solid #f8f8f8; }
+.order_formlist dl dd span{ display:inline-block; border-top:1px solid #d8d9d8; border-right:1px solid #dedfde; }
+/*order-detaile*/
+.oview{ border:1px solid #e5e5e5; padding:0px 20px 50px 20px; margin-top:51px; margin-bottom:80px; }
+.oview .oview_top{ padding-bottom:70px; }
+.oview .ov_title{ text-align:right; margin-top:42px; width:840px; }
+.oview .ov_title span{ font-size:18px; font-weight:bold; color:#000; }
+.oview .ov_title .buyone{ background:url(../images/index/buyone.png); font-size:0px; cursor:pointer; width:120px; height:29px; line-height:29px; display:inline-block; margin:0px 33px; text-align:center; color:#fff; }
+.tobuy{ background:url(../images/index/mszf.png); font-size:0px; cursor:pointer; width:119px; height:33px; display:inline-block; margin:0px 33px; text-align:center; color:#fff; }
+.oview .ov_title .closeorder{ color:#666666; text-decoration:underline; }
+.oview .ov_list dl dt{ font-size:14px; padding-left:7px; height:35px; line-height:35px; font-weight:bold; padding-top:5px; }
+.oview .ov_list dl dt a{ font-weight:normal; font-size:12px; color:#0162bd; }
+.oview .ov_list dl dd{ padding-left:40px; line-height:20px; }
+.oview .ov_list dl{ background:url(../images/index/dian.jpg) repeat-x bottom; padding-bottom:20px; }
+.oview .price{ text-align:right; padding-top:14px; padding-right:12px; line-height:20px; padding-bottom:13px; }
+.oview .price .zf{ font-size:18px; font-family:Verdana, Geneva, sans-serif; color:#bc181f; font-weight:bold; }
+/*pay success*/
+.o_success{ border:1px solid #e5e5e5; padding-top:40px; }
+.o_success .title{ background:url(../images/index/successtitle.jpg) no-repeat center; height:42px; }
+.o_success .info{ padding-left:30px; }
+.o_success .info dl dt{ font-size:14px; font-weight:bold; padding-bottom:20px; }
+.o_success .info dl dt span{ color:#0162bd; }
+.o_success .info dl dd{ line-height:26px; padding-left:68px; padding-bottom:74px; }
+.o_success .info dl dd b{ color:#bc1820; }
+.o_success .info2{ height:133px; background-color:#f5f5f5; }
+.o_success .info2 .f_l{ padding-left:96px; padding-top:46px; width:500px; color:#87827f; }
+.o_success .info2 .f_l a{ color:#0162bd; }
+.o_success .info2 .f_r{ width:340px; padding-top:28px; }
+.o_success .info2 .f_r img{ float:left; margin-right:8px; }
+.o_success .info2 .f_r{ color:#87827f; line-height:20px; }
+.o_success .info2 .f_r span{ color:#0162bd; display:inline-block; background:url(../images/index/success_07.jpg) no-repeat; padding-left:12px; height:13px; }
+.o_fx{ padding-top:48px; padding-bottom:70px; }
+.o_fx .fx_left{ width:250px; float:left; }
+.o_fx .fx_left dl dt{ font-size:14px; font-weight:bold; color:#000000; padding-bottom:25px; padding-left:30px; }
+.o_fx .fx_left dl dd{ float:left; width:71px; height:36px; border:1px solid #e7e7e7; padding-left:45px; line-height:36px; margin-bottom:10px; margin-right:4px; }
+.o_fx .fx_left dl dd.check{ border:1px solid #bc1820; }
+.o_fx .fx_left dl dd.sina{ background:url(../images/index/sina.jpg) no-repeat 24px center; }
+.o_fx .fx_left dl dd.weibo{ background:url(../images/index/weibo.jpg) no-repeat 24px center; }
+.o_fx .fx_left dl dd.kaixin{ background:url(../images/index/kaixin.jpg) no-repeat 24px center; }
+.o_fx .fx_left dl dd.renren{ background:url(../images/index/renren.jpg) no-repeat 24px center; }
+.o_fx .fx_left dl dd.mail{ background:url(../images/index/mail.jpg) no-repeat 24px center; }
+.o_fx .fx_right{ width:725px; float:left; position:relative; margin-left:18px; margin-top:24px; }
+.o_fx .fx_right .top{ background:url(../images/index/success_15.jpg) no-repeat; height:8px; }
+.o_fx .fx_right .fxcon{ background:url(../images/index/success_17.jpg); padding:20px 0px; }
+.o_fx .fx_right .fxcon .pic{ float:left; width:150px; text-align:center; }
+.o_fx .fx_right .fxcon .pic a.select{ display:inline-block; background:url(../images/index/wwcpl_16.jpg) no-repeat; width:75px; height:31px; line-height:31px; color:#004b91; margin-top:15px; text-align:center; }
+.o_fx .fx_right .fxcon .fxcright{ float:left; width:550px; }
+.o_fx .fx_right .fxcon .fxcright .textarea{ width:548px; height:84px; font-size:12px; color:#666666; border:1px solid #dedfde; margin-top:10px; }
+.o_fx .fx_right .fxcon .fxcright .link{ color:#b1b1b1; height:32px; line-height:32px; }
+.o_fx .fx_right .sj{ background:url(../images/index/wwcpl_08.jpg) no-repeat; width:14px; height:27px; position:absolute; left:-11px; top:22px; }
+.o_fx .fx_right .foot{ background:url(../images/index/success_37.jpg) no-repeat; height:9px; }
+/*2015/6/4 @Ljp*/
+div.sontable1{float:left; padding-left:30px;}
+div.sontable2{float:left; text-align:left; padding-left:15px;}
+div.sontable2 p{line-height:25px;}
+#order2 th{text-align:right;width:120px;}
+#order2 td{text-align:left;width:120px;}
+#order2 tr{background:none;}
+.privilege{margin-left:5px;}
+.input-code{width:120px; padding:1px 5px; border:1px solid #AAA; font-family:Micorsoft yahei; margin-left:10px;}
+.privilege-select{width:150px; height:24px; line-height:24px; padding:0px 30px 0px 8px; border:1px solid #a9c9e2; background:#e8f5fe url(../images/select-down.png) no-repeat right center;  color:#807a62; cursor:pointer;display:inline-block;}
+ul#privilege-list{width:188px; background:#e8f5fe; margin-top:2px; border:1px solid #a9c9e2;  
+position:absolute; top:25px; left:105px; display:none;} 
+ul#privilege-list li{height:24px; line-height:24px; text-indent:10px} 
+ul#privilege-list li a{display:block; height:24px; color:#807a62; text-decoration:none} 
+ul#privilege-list li a:hover{background:#c6dbfc; color:#369} 

@@ -1,0 +1,90 @@
+﻿.pa_right{
+	float:left;
+	width:955px;
+}
+.pa_right h1{
+	text-align:center;
+	display:block;
+	background:url(../picture/361ppai_03.jpg) no-repeat center bottom;
+	height:58px;
+	padding-bottom:22px;
+	margin:0px;
+	font-size:30px;
+	color:#000000;
+	font-family:"Microsoft Yahei",sans-serif;
+	width:882px;
+}
+.pa_right .content{
+	width:880px;
+	margin:auto;
+	padding-top:18px;
+	color:#464646;
+	line-height:180%;
+}
+.aboutdian{
+	background:url(../picture/361ppai_13.jpg) no-repeat 10px center;
+	padding-left:30px;
+}
+.bottomxx{
+	border-bottom:1px dashed #a6a6a6;
+}
+.leftxx{
+	border-left:1px dashed #a6a6a6;
+}
+.about_pa1{
+	padding-top:14px;
+	padding-bottom:10px;
+}
+.about_pa2{
+	padding-left:42px;
+	padding-bottom:25px;
+}
+.about_pa3{
+	padding-left:42px;
+	padding-bottom:20px;
+	padding-top:12px;
+}
+.about_pa18{
+	padding-top:18px;
+}
+.about_pb28{
+	padding-bottom:28px;
+}
+.about_pb4{
+	padding:20px;
+}
+.about_mb1{
+	margin-bottom:56px;
+}
+.pp_news{width:813px; margin-top:100px;}
+.pp_news h1{padding-bottom:10px; border-bottom:1px dashed #a6a6a6; font-size:18px; color:#000000; text-align:left; padding-left:35px; background:url(../picture/icon_h1.jpg) no-repeat 13px 7px; height:auto; width:auto;}
+.pp_news_about{margin-top:27px;}
+.left{float:left;}
+.right{float:right;}
+.pp_news_about .pp-pic{margin-left:35px; width:421px;}
+.pp_news_about .pp-info{width:332px; margin-left:24px; color:#464646; font-size:14px; font-family:"Microsoft Yahei"; line-height:26px;}
+.pp_news_about .pp-info .pp-info-desc{margin-top:10px; height:104px;}
+.pp_news_about .pp-date{color:#a7a7a7; font-size:12px; margin-top:5px;}
+.pp_news_about  a.pp-more{ text-align:right; padding-right:36px; height:41px; line-height:41px; background:url(../picture/xwxq.jpg) no-repeat right center; font-size:14px; color:#f49500; display:inline-block; width:89%; margin-top:46px;}
+.pp-detaile{width:813px; margin-left:47px; font-family:"Microsoft Yahei";}
+.pp-detaile h2{ padding-bottom:17px; border-bottom:1px dashed #a6a6a6; text-indent:58px; font-size:24px;}
+.pp-detaile p.date{padding-right:5px; text-align:right; margin-top:15px; color:#a7a7a7; font-size:12px;}
+.pp-detaile .pp-dts{margin-top:50px; font-size:12px; color:#464646; line-height:25px; margin-bottom:50px;}
+.pp-detaile .pp-back-close{text-align:right;}
+.pp-detaile .pp-back-close a{color:#646464; margin-right:10px; text-decoration:none;}
+.pp-detaile h3{color:#787878; padding-bottom:11px; border-bottom:1px solid #eeeeee; text-indent:7px; margin-top:45px;}
+.pp-other{padding-left:7px;}
+.pp-other ul li{line-height:24px;}
+.pp-other ul a{color:#999999;}
+.content{ font-family:"Microsoft Yahei";}
+.content .jobs361{width:900px; padding-bottom:100px;}
+.content .jobs{width:100%; margin-left:48px; padding-right:24px; font-family:"Microsoft Yahei";}
+.content .jobs h3{background:url(../picture/job_zp.jpg) no-repeat center bottom; font-size:24px; color:#575757; padding:10px 0px 34px; text-align:center;}
+.content .jobs-list{width:390px; border-bottom:1px dashed #a6a6a6; margin-bottom:40px;  float:left; padding-left:10px; margin-right:10px;}
+.jobs-list li{font-size:12px; color:#575757; padding-left:22px; background:url(../picture/icon_zp.jpg) no-repeat 3px center;}
+.jobs-list li label{font-size:14px; font-weight:bold; }
+.jobs-list a{display:inline-block; color:#f49500; padding:18px 15px 20px 22px; background:url(../picture/job_more.jpg) no-repeat right center;}
+h4.jobs-zwyq{padding:0px; margin:0px; padding-top:15px; font-size:14px; color:#575757; text-indent:22px;}
+.jobs-yq-list{margin-left:22px; width:745px; background:#f5f5f5; padding:15px 20px 15px 26px; margin-top:20px; color:#464646;}
+.jobs-yq-list p{padding:0px; margin:0px; padding:2px 0px;}
+a.tomail{display:inline-block; margin-left:22px; width:185px; height:36px; line-height:36px; text-align:center; color:#FFFFFF; font-size:16px; font-weight:bold; background:#f99302; border-radius:5px; margin-top:24px;}
